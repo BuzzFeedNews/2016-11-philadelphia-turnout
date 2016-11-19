@@ -1,6 +1,6 @@
 # Change in Turnout by Ward in Philadelphia 
 
-This repository contains the data and analysis for the BuzzFeed News article, "[Data Shows Sharp Drop Among Black Voters In Philadelphia](https://www.buzzfeed.com/johntemplon/data-shows-sharp-drop-among-black-voters-in-philad)," published November 18, 2016.
+This repository contains the data and analysis for the BuzzFeed News article, "[Data Shows Sharp Drop Among Black Voters In Philadelphia](https://www.buzzfeed.com/johntemplon/this-chart-shows-philadelphia-black-voters-stayed-home-costi)," published November 18, 2016.
 
 ## Data
 
